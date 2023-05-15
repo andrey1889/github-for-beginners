@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 1122px;
+    min-height: 1750px;
+    font-family: "PT Sans Narrow", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    background-color: #000000;
+    background-image: url("img/bg.jpg");
+    background-size: 1372px auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+    }
+   
